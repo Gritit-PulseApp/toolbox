@@ -2,7 +2,7 @@
   "name": "gritit/toolbox",
   "description": "Gritit internal toolbox",
   "type": "library",
-  "license": "Proprietary",
+  "license": "proprietary",
   "authors": [
     {
       "name": "George Hallam",
