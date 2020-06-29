@@ -1,8 +1,8 @@
 <?php
 
-namespace ingelby\toolbox\behaviors;
+namespace gritit\toolbox\behaviors;
 
-use ingelby\toolbox\constants\HttpStatus;
+use gritit\toolbox\constants\HttpStatus;
 use yii\base\Behavior;
 use yii\rest\Controller;
 use yii\web\HeaderCollection;
@@ -10,7 +10,7 @@ use yii\web\HttpException;
 
 /**
  * Class SignatureAuth
- * @package ingelby\toolbox\behaviors
+ * @package gritit\toolbox\behaviors
  */
 class SignatureAuth extends Behavior
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace ingelby\toolbox\behaviors;
+namespace gritit\toolbox\behaviors;
 
 use yii\base\InvalidCallException;
 use yii\behaviors\AttributeBehavior;

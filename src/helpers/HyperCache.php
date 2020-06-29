@@ -1,6 +1,6 @@
 <?php
 
-namespace ingelby\toolbox\helpers;
+namespace gritit\toolbox\helpers;
 
 use Yii;
 

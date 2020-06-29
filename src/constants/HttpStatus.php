@@ -1,6 +1,6 @@
 <?php
 
-namespace ingelby\toolbox\constants;
+namespace gritit\toolbox\constants;
 
 class HttpStatus
 {

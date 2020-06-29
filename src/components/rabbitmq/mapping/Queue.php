@@ -1,6 +1,6 @@
 <?php
 
-namespace ingelby\toolbox\components\rabbitmq\mapping;
+namespace gritit\toolbox\components\rabbitmq\mapping;
 
 
 use yii\base\Model;

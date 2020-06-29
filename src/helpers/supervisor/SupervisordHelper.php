@@ -1,10 +1,10 @@
 <?php
 
-namespace ingelby\toolbox\helpers\supervisor;
+namespace gritit\toolbox\helpers\supervisor;
 
 
-use ingelby\toolbox\helpers\supervisor\exceptions\SupervisorCommandException;
-use ingelby\toolbox\helpers\supervisor\exceptions\SupervisorProcessNotRunningException;
+use gritit\toolbox\helpers\supervisor\exceptions\SupervisorCommandException;
+use gritit\toolbox\helpers\supervisor\exceptions\SupervisorProcessNotRunningException;
 
 class SupervisordHelper
 {

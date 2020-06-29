@@ -1,10 +1,10 @@
 <?php
 
-namespace ingelby\toolbox\components\rabbitmq;
+namespace gritit\toolbox\components\rabbitmq;
 
-use ingelby\toolbox\components\rabbitmq\exceptions\RabbitMqHeathClientException;
-use ingelby\toolbox\components\rabbitmq\exceptions\RabbitMqHeathConfigurationException;
-use ingelby\toolbox\components\rabbitmq\mapping\Queue;
+use gritit\toolbox\components\rabbitmq\exceptions\RabbitMqHeathClientException;
+use gritit\toolbox\components\rabbitmq\exceptions\RabbitMqHeathConfigurationException;
+use gritit\toolbox\components\rabbitmq\mapping\Queue;
 use yii\base\Component;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;

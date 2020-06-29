@@ -1,8 +1,8 @@
 <?php
 
-namespace ingelby\toolbox\helpers;
+namespace gritit\toolbox\helpers;
 
-use ingelby\toolbox\exceptions\ModelException;
+use gritit\toolbox\exceptions\ModelException;
 
 class LoggingHelper
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace ingelby\toolbox\traits;
+namespace gritit\toolbox\traits;
 
 
 use yii\caching\TagDependency;

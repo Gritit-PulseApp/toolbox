@@ -1,10 +1,10 @@
 <?php
 
-namespace ingelby\toolbox\traits;
+namespace gritit\toolbox\traits;
 
 
 use common\helpers\LoggingHelper;
-use ingelby\toolbox\helpers\HyperCache;
+use gritit\toolbox\helpers\HyperCache;
 use yii\caching\TagDependency;
 use yii\helpers\StringHelper;
 

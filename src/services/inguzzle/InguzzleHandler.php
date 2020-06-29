@@ -1,11 +1,11 @@
 <?php
 
-namespace ingelby\toolbox\services\inguzzle;
+namespace gritit\toolbox\services\inguzzle;
 
-use ingelby\toolbox\helpers\LoggingHelper;
-use ingelby\toolbox\services\inguzzle\exceptions\InguzzleClientException;
-use ingelby\toolbox\services\inguzzle\exceptions\InguzzleInternalServerException;
-use ingelby\toolbox\services\inguzzle\exceptions\InguzzleServerException;
+use gritit\toolbox\helpers\LoggingHelper;
+use gritit\toolbox\services\inguzzle\exceptions\InguzzleClientException;
+use gritit\toolbox\services\inguzzle\exceptions\InguzzleInternalServerException;
+use gritit\toolbox\services\inguzzle\exceptions\InguzzleServerException;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\ServerException;

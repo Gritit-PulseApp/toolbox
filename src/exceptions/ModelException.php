@@ -1,6 +1,6 @@
 <?php
 
-namespace ingelby\toolbox\exceptions;
+namespace gritit\toolbox\exceptions;
 
 use Throwable;
 

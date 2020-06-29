@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ingelby\toolbox\components;
+namespace gritit\toolbox\components;
 
 
 use OpenCloud\ObjectStore\Resource\DataObject;

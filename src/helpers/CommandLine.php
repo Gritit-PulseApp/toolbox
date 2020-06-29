@@ -1,10 +1,10 @@
 <?php
 
-namespace ingelby\toolbox\helpers;
+namespace gritit\toolbox\helpers;
 
 /**
  * Class CommandLine
- * @package ingelby\toolbox\helpers
+ * @package gritit\toolbox\helpers
  */
 class CommandLine {
 

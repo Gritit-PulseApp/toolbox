@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ingelby\toolbox\helpers\supervisor\exceptions;
+namespace gritit\toolbox\helpers\supervisor\exceptions;
 
 use yii\base\Exception;
 
